@@ -16,8 +16,8 @@
 
 <img src="./qr_bapa23.png" alt="QR Code" style="width:200px; height:200px;"/>
 <br>
-Scan to access the presentation
-
+<p>Scan to access the presentation</p>
+<p><a href="https://t.ly/bapa-summer23"><code>https://t.ly/bapa-summer23</code></a></p>
 
 --- 
 
@@ -303,4 +303,5 @@ Find classmates, make friends, join a classroom Discord to stay in touch with ot
 
 <img src="./qr_bapa23.png" alt="QR Code" style="width:200px; height:200px;"/>
 <br>
-Scan to access the presentation
+<p>Scan to access the presentation</p>
+<p><a href="https://t.ly/bapa-summer23"><code>https://t.ly/bapa-summer23</code></a></p>
