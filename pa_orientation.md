@@ -298,8 +298,6 @@ Find classmates, make friends, join a classroom Discord to stay in touch with ot
 <img src="./csuf1.jpg" alt="langsdorf hall" width="600">
 
 ---
-
----
 <img src="./CalStateFullerton-color.png" alt="Logo" />
 
 
