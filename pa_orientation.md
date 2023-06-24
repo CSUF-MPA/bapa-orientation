@@ -1,13 +1,26 @@
+<div style="text-align: center;">
+    <span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;">New Student Orientation</span>
+    <br>
+    <span style="color: #FF7900; font-size: 1.25em;">Public Administration Majors</span>
+    <br>
+    Summer 2023
+    <br>
+    <img src="./CalStateFullerton-color.png" alt="Logo" />
+</div>
 
 
-<span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> New Student Orientation</span>
 
-<span style="color: #FF7900; font-size: 1.25em;"> Public Administration Majors</span>
-
-Summer 2023
-![CalStateFullerton-color.png](./CalStateFullerton-color.png)
- 
 ---
+<img src="./CalStateFullerton-color.png" alt="Logo" />
+
+
+<img src="./qr_bapa23.png" alt="QR Code" style="width:200px; height:200px;"/>
+<br>
+Scan to access the presentation
+
+
+--- 
+
 
 ## We're Glad You're Here!
 
@@ -273,11 +286,11 @@ Find classmates, make friends, join a classroom Discord to stay in touch with ot
 
 - Feel free to contact me:
     - David P. Adams, Ph.D.
-    - `dpadams@fullerton.edu`
+    - <a href="mailto:dpadams@fullerton.edu"><code>dpadams@fullerton.edu</code></a>
    
 - Or contact the Division's general email:
-    - `pajdiv@fullerton.edu`
-	
+    - <a href="mailto:pajdiv@fullerton.edu"><code>pajdiv@fullerton.edu</code></a>
+
 ---
 
 <span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> Welcome to </span>
@@ -285,3 +298,11 @@ Find classmates, make friends, join a classroom Discord to stay in touch with ot
 <img src="./csuf1.jpg" alt="langsdorf hall" width="600">
 
 ---
+
+---
+<img src="./CalStateFullerton-color.png" alt="Logo" />
+
+
+<img src="./qr_bapa23.png" alt="QR Code" style="width:200px; height:200px;"/>
+<br>
+Scan to access the presentation
