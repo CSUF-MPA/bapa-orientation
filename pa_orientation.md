@@ -32,12 +32,6 @@ Summer 2023
 
 ---
 
-
-<span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> Why Public Administration?</span>
-
- - PA is the study of the management of government at all levels &mdash; local, state, and federal &mdash; as well as nonprofit organizations
-- Serve your community and make a change by learning about:
-
 <style>
 table {
   border-collapse: collapse;
@@ -57,9 +51,20 @@ table tbody tr:first-child td {
 table tbody tr td {
   border-bottom: none;
 }
+
+.reveal table {
+  font-size: smaller;
+  width: 80%;
+}
 </style>
 
-<table>
+<span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> Why Public Administration?</span>
+
+- PA is the study of the management of government at all levels &mdash; local, state, and federal &mdash; as well as nonprofit organizations
+
+- Serve your community and make a change by learning about:
+
+<table class="reveal">
   <tbody>
     <tr>
       <td>Leadership skills</td>
@@ -70,7 +75,7 @@ table tbody tr td {
       <td>Communication</td>
     </tr>
     <tr>
-      <td>Budgeting and finance</td>
+      <td>Budgeting &amp; finance</td>
       <td>Data analysis</td>
     </tr>
     <tr>
@@ -79,6 +84,7 @@ table tbody tr td {
     </tr>
   </tbody>
 </table>
+
 
 
 ---
@@ -91,9 +97,15 @@ table tbody tr td {
 
 ---
 
-<span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> Courses in Your First Year</span>
+<span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> In Your First Year</span>
 
-POSC 100 for the Major
+<h3>Take POSC 100 - American Government</h3>
+<p>This class is part of General Education,<br>but take it as soon as possible.</p>
+<p>In Fall 2023, take the section <strong>just for majors</strong>:</p>
+<ul>
+<li><strong>POSC 100-08 (#<code>17906</code>)</strong></li>
+<li>It's "invisible," so just use the code <code>17906</code></li>
+</ul>
 
 ---
 
