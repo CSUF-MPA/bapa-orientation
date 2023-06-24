@@ -1,0 +1,9 @@
+/* Apply the background to all slides */
+.slide-background {
+    background-color: #00244E;  /* Change this to the color you want */
+}
+
+/* Make the background of the first slide white (or whatever color you want) */
+.slide-background:first-of-type {
+    background-color: #1A2029;
+}
