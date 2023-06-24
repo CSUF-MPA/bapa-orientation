@@ -166,7 +166,7 @@ POSC 100 for the Major
     </ul>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/group.jpeg" alt="Groups Image" style="width: 80%;">
+    <img src="./group.jpeg" alt="Groups Image" style="width: 80%;">
   </div>
 </div>
 
@@ -199,8 +199,8 @@ POSC 100 for the Major
     </ul>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/study2.jpeg" alt="Study Image 2" style="width: 80%;">
-    <img src="/images/study.jpeg" alt="Study Image" style="width: 80%;">
+    <img src="./study2.jpeg" alt="Study Image 2" style="width: 80%;">
+    <img src="./study.jpeg" alt="Study Image" style="width: 80%;">
   </div>
 </div>
 
@@ -220,7 +220,7 @@ POSC 100 for the Major
     </ul>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/class.jpeg" alt="Class Image" style="width: 100%;">
+    <img src="./class.jpeg" alt="Class Image" style="width: 100%;">
   </div>
 </div>
 
@@ -251,7 +251,7 @@ POSC 100 for the Major
 Find classmates, make friends, join a classroom Discord to stay in touch with other students in the major
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/friends.jpeg" alt="friend Image" style="width: 100%;">
+    <img src="./friends.jpeg" alt="friend Image" style="width: 100%;">
   </div>
 </div>
 
@@ -270,6 +270,6 @@ Find classmates, make friends, join a classroom Discord to stay in touch with ot
 
 <span style="color: #1b6ec2; font-size: 1.5em; font-weight: bold; text-transform: uppercase;"> Welcome to </span>
 <img src="CalStateFullerton-color.png" alt="csuf" width="600">
-<img src="images/csuf1.jpg" alt="langsdorf hall" width="600">
+<img src="./csuf1.jpg" alt="langsdorf hall" width="600">
 
 ---
