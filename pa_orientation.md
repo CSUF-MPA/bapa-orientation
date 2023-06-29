@@ -146,8 +146,8 @@ table tbody tr td {
             <td>MATH 120 (Statistics)</td>
         </tr>
         <tr>
-            <td>A.3 (Optional)</td>
-            <td>PHIL 106 (For law school interest)</td>
+            <td>A.3 </td>
+            <td>PHIL 106 if law school interest</td>
         </tr>
     </table>
 </div>
