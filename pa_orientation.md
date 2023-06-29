@@ -37,7 +37,10 @@
  
 
   <div class="image-content">
-    <img src="gordon.jpg" alt="Gordon Hall">
+	  <figure>
+		  <img src="gordon.jpg" alt="Gordon Hall" width="400">
+		  <figcaption style="fontsize: .25em;">Gordon Hall</figcaption>
+         </figure>
   </div>
 </div>
 
