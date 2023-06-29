@@ -37,7 +37,7 @@
  
 
   <div class="image-content">
-    <img src="gordon.png" alt="Gordon Hall">
+    <img src="gordon.jpg" alt="Gordon Hall">
   </div>
 </div>
 
